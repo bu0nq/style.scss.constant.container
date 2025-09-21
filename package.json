@@ -1,20 +1,20 @@
 {
-  "name": "@bu0nq/style.scss.constant.content",
+  "name": "@bu0nq/style.scss.constant.container",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Constant.Breakpoint",
-  "main": "content.scss",
+  "description": "Package for integrating Style.SCSS.Constant.Container",
+  "main": "container.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.constant.content.git"
+    "url": "git+https://github.com/bu0nq/style.scss.constant.container.git"
   },
   "keywords": [
     "style",
     "scss",
     "constant",
-    "content"
+    "container"
   ],
   "author": {
     "name": "bu0nq",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.constant.content/issues"
+    "url": "https://github.com/bu0nq/style.scss.constant.container/issues"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.constant.content#readme",
+  "homepage": "https://github.com/bu0nq/style.scss.constant.container#readme",
   "publishConfig": {
     "access": "public"
   }

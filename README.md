@@ -1,10 +1,10 @@
-# Style.SCSS.Constant.Content
+# Style.SCSS.Constant.Container
 
-Package for integrating `Style.SCSS.Constant.Content` in a web environment.
+Package for integrating `Style.SCSS.Constant.Container` in a web environment.
 
-![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.constant.content?style=for-the-badge)
-![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.constant.content?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.constant.content?style=for-the-badge)
+![npm](https://img.shields.io/npm/v/@bu0nq/style.scss.constant.container?style=for-the-badge)
+![npm](https://img.shields.io/npm/dm/@bu0nq/style.scss.constant.container?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/@bu0nq/style.scss.constant.container?style=for-the-badge)
 ___
 
 ## Installation
@@ -12,5 +12,5 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @bu0nq/style.scss.constant.content
+npm i @bu0nq/style.scss.constant.container
 ```
