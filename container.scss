@@ -1,8 +1,17 @@
-$container-xs: 360px !default;
-$container-sm: 540px !default;
-$container-md: 720px !default;
-$container-lg: 960px !default;
-$container-xl: 1140px !default;
-$container-2xl: 1320px !default;
-$container-3xl: 1500px !default;
-$container-4xl: 1680px !default;
+$container-2xs: 360px !default;
+$container-xs: 480px !default;
+$container-sm: 720px !default;
+$container-md: 960px !default;
+$container-lg: 1200px !default;
+$container-xl: 1320px !default;
+$container-2xl: 1440px !default;
+
+$listOfContainers: (
+        '2xs': $container-2xs,
+        'xs': $container-xs,
+        'sm': $container-sm,
+        'md': $container-md,
+        'lg': $container-lg,
+        'xl': $container-xl,
+        '2xl': $container-xl,
+);
