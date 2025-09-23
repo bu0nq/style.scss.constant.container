@@ -1,13 +1,11 @@
-$container-2xs: 360px !default;
-$container-xs: 480px !default;
-$container-sm: 720px !default;
-$container-md: 960px !default;
-$container-lg: 1200px !default;
-$container-xl: 1320px !default;
+$container-xs: 360px !default;
+$container-sm: 480px !default;
+$container-md: 640px !default;
+$container-lg: 960px !default;
+$container-xl: 1200px !default;
 $container-2xl: 1440px !default;
 
 $listOfContainers: (
-        '2xs': $container-2xs,
         'xs': $container-xs,
         'sm': $container-sm,
         'md': $container-md,
